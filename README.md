@@ -32,3 +32,4 @@ Dataset:
 <img width="1920" height="1080" alt="Screenshot (822)" src="https://github.com/user-attachments/assets/54a02455-4cf6-408e-9fbc-67ddb936c828" />
 <img width="1920" height="1080" alt="Screenshot (821)" src="https://github.com/user-attachments/assets/10ef1b3d-e24e-4c8b-b3b8-5a8020833bb2" />
 <img width="1920" height="1080" alt="Screenshot (819)" src="https://github.com/user-attachments/assets/c75827c2-e0b4-4117-a6be-f05167c3b709" />
+<img width="1920" height="1080" alt="Screenshot (829)" src="https://github.com/user-attachments/assets/f8bdcff8-3e6e-4cb3-8cd8-2d967d45a7f7" />
