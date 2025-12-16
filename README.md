@@ -1,4 +1,4 @@
-Business Problem
+# Business Problem
 
 Electricity consumption data is generated in large volumes and stored in raw CSV files, making it difficult to analyze efficiently.
 The organization lacks a structured system to transform this raw data into meaningful insights.
@@ -15,6 +15,15 @@ Regional and household comparisons are limited.
 Decision-making is based on incomplete insights.
 A centralized data warehouse is required to support BI tools.
 This project aims to convert raw energy data into actionable business intelligence.
+
+
+---
+Dataset:
+[dataset link](https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set)
+
+---
+
+## Screenshots
 
 <img width="1920" height="1080" alt="Screenshot (827)" src="https://github.com/user-attachments/assets/84b26c4a-6be1-4ec4-bfb9-ab7fda0cecf4" />
 <img width="1920" height="1080" alt="Screenshot (826)" src="https://github.com/user-attachments/assets/2030f8ef-2453-4f65-856c-52939dc7f3f8" />
