@@ -1,0 +1,18 @@
+Business Problem
+
+Electricity consumption data is generated in large volumes and stored in raw CSV files, making it difficult to analyze efficiently.
+The organization lacks a structured system to transform this raw data into meaningful insights.
+Business users are unable to easily track energy usage trends over time.
+There is no clear way to compare consumption across households, regions, devices, or tariffs.
+Manual analysis using spreadsheets is slow and error-prone.
+The data does not follow an analytical model optimized for reporting.
+There is no separation between fact data and descriptive dimensions.
+As a result, answering basic business questions requires significant effort.
+The organization needs a scalable solution for historical analysis.
+Energy peak periods are not clearly identified.
+Tariff impact on consumption cannot be evaluated effectively.
+Regional and household comparisons are limited.
+Decision-making is based on incomplete insights.
+A centralized data warehouse is required to support BI tools.
+This project aims to convert raw energy data into actionable business intelligence.
+
